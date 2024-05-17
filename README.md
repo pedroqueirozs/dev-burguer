@@ -1,30 +1,52 @@
-# React + TypeScript + Vite
+<h1 align="center">App Web Delivery</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+Aplicativo de realização de pedidos para entrega.
+<br/>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img alt="projeto DevLinks" src="./src/assets/imgs/layout.svg" width="70%">
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🚀 Tecnologias
 
-- Configure the top-level `parserOptions` property like this:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- React - Vite
+- TypeScript
+- Tailwind
+- Node JS
+- Git e Github
+- Figma
+- Toastify
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 💻 Projeto
+
+O projeto foi desenvolvido com o intuito de praticar um pouco mais a tecnologia React, trabalhando com os estados e tambem os estilos-[Visite o projeto online]()
+
+## 💻 Usage
+
+1.           Instale as depedencias do NodeJs: npm install
+2.           Start a API do servidor nodejs: npm run dev
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---

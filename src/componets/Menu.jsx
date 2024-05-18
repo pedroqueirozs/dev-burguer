@@ -52,8 +52,7 @@ export function Menu() {
         2
       )}\nEntregar em: ${address}`
     );
-    const phone = "1173779229";
-    window.open(`https://wa.me/${phone}?text=${message}`, "_blank");
+    window.open(`https://wa.me/11973779229?text=${message}`, "_blank");
   };
 
   const deleteToCart = (product) => {

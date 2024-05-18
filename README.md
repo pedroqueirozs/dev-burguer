@@ -17,7 +17,7 @@ Aplicativo de realização de pedidos para entrega.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./src/assets/imgs/layout.svg" width="70%">
+  <img alt="projeto Dev Burguer" src="./src/assets/data/imgs/layout.svg" width="70%">
 </p>
 
 ## 🚀 Tecnologias
@@ -38,8 +38,8 @@ O projeto foi desenvolvido com o intuito de praticar um pouco mais a tecnologia 
 
 ## 💻 Usage
 
-1.           Instale as depedencias do NodeJs: npm install
-2.           Start a API do servidor nodejs: npm run dev
+1.            Instale as depedencias do NodeJs: npm install
+2.            Start a API do servidor nodejs: npm run dev
 
 ## 🔖 Layout
 

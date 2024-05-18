@@ -1,7 +1,7 @@
 import React from "react";
+import logo from '../assets/data/imgs/logo.svg';
 
 export function Header() {
-const logo = require('../../public/imgs/logo.svg').default;
   return (
     <div className="w-full relative text-center bg-zinc-900 h-[420px] bg-home bg-cover bg-center ">
       <div className=" text-white flex flex-col items-center justify-center h-full w-full">

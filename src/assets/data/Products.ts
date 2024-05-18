@@ -1,19 +1,18 @@
-const hambUm = require('./assets/src/imgs/hamb-1.svg').default;
-const hambDois = require('./assets/src/imgs/hamb-2.svg').default;
-const hambTres = require('./assets/src/imgs//hamb-3.svg').default;
-const hambQuatro = require('./assets/src/imgs/hamb-3.svg').default;
-const hambCinco = require('./assets/src/imgs/hamb-3.svg').default;
-const hambSeis = require('./assets/src/imgs/hamb-6.svg').default;
-const hambSete = require('./assets/src/imgs/hamb-7.svg').default;
-const hambOito = require('./assets/src/imgs/hamb-8.svg').default;
-const hambNove = require('./assets/src/imgs/hamb-9.svg').default;
-const hambDez = require('./assets/src/imgs/hamb-10.svg').default;
+import hambUm from './imgs/hamb-1.svg';
+import hambDois from './imgs/hamb-2.svg';
+import hambTres from './imgs/hamb-3.svg';
+import hambQuatro from './imgs/hamb-3.svg';
+import hambCinco from './imgs/hamb-3.svg';
+import hambSeis from './imgs/hamb-6.svg';
+import hambSete from './imgs/hamb-7.svg';
+import hambOito from './imgs/hamb-8.svg';
+import hambNove from './imgs/hamb-9.svg';
+import hambDez from './imgs/hamb-10.svg';
 
-
-const coca = require('./assets/src/imgs/coca.svg').default;
-const guarana = require('./assets/src/imgs/guarana.svg').default;
-const pepsi = require('./assets/src/imgs/pepsi.svg').default;
-const sprite = require('./assets/src/imgs/sprite.svg').default;
+import coca from './imgs/coca.svg';
+import guarana from './imgs/guarana.svg';
+import pepsi from './imgs/pepsi.svg';
+import sprite from './imgs/sprite.svg';
 
 export const products = [
   {

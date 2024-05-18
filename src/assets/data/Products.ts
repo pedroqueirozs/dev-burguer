@@ -1,18 +1,18 @@
-import hambUm from './imgs/hamb-1.svg';
-import hambDois from './imgs/hamb-2.svg';
-import hambTres from './imgs/hamb-3.svg';
-import hambQuatro from './imgs/hamb-3.svg';
-import hambCinco from './imgs/hamb-3.svg';
-import hambSeis from './imgs/hamb-6.svg';
-import hambSete from './imgs/hamb-7.svg';
-import hambOito from './imgs/hamb-8.svg';
-import hambNove from './imgs/hamb-9.svg';
-import hambDez from './imgs/hamb-10.svg';
+  import hambUm from './imgs/hamb-1.svg';
+  import hambDois from './imgs/hamb-2.svg';
+  import hambTres from './imgs/hamb-3.svg';
+  import hambQuatro from './imgs/hamb-3.svg';
+  import hambCinco from './imgs/hamb-3.svg';
+  import hambSeis from './imgs/hamb-6.svg';
+  import hambSete from './imgs/hamb-7.svg'; 
+  import hambOito from './imgs/hamb-8.svg';
+  import hambNove from './imgs/hamb-9.svg';
+  import hambDez from './imgs/hamb-10.svg';
 
-import coca from './imgs/coca.svg';
-import guarana from './imgs/guarana.svg';
-import pepsi from './imgs/pepsi.svg';
-import sprite from './imgs/sprite.svg';
+  import coca from './imgs/coca.svg';
+  import guarana from './imgs/guarana.svg';
+  import pepsi from './imgs/pepsi.svg';
+  import sprite from './imgs/sprite.svg';
 
 export const products = [
   {

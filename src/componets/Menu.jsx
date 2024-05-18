@@ -52,7 +52,7 @@ export function Menu() {
         2
       )}\nEntregar em: ${address}`
     );
-    const phone = "11973779229";
+    const phone = "1173779229";
     window.open(`https://wa.me/${phone}?text=${message}`, "_blank");
   };
 
